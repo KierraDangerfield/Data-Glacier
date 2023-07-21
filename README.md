@@ -29,3 +29,26 @@ Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_1
 
 ### <b>Insight for Cab Investment Firm</b>
 XYZ is a private firm in US. Due to remarkable growth in the Cab Industry in last few years and multiple key players in the market, it is planning for an investment in Cab industry and as per their Go-to-Market(G2M) strategy they want to understand the market before taking final decision.
+
+<br/>
+
+Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_2
+
+# Week 3 (July 15 - July 21)
+
+### <b>Presentation</b>
+Presentation of EDA findings from week 2.
+
+<br/>
+
+Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_3
+
+# Week 4 (July 22 - July 28)
+
+### <b>Deployment on Flask</b>
+
+
+<br/>
+
+Link: 
+

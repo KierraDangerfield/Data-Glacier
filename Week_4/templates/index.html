@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Model Deployment</title>
+    <!--<link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>-->
+    <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css"
+        integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">-->
+    <!--<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">-->
+    <link rel="stylesheet" href="/static/css/style.css">
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="row" style="height:500px;">
+            <h1 class="purple">Predict Iris Species</h1>
+
+
+            <!-- Main Input For Receiving Query to our ML -->
+            <form action="{{ url_for('predict')}}" method="post">
+                <div class="form-group">
+                    <input type="text" name="SepalLengthCm" placeholder="Sepal Length in Cm" required="required">
+                </div>
+                <div class="form-group">
+                    <input type="text" name="SepalWidthCm" placeholder="Sepal Width in Cm" required="required">
+                </div>
+                <div class="form-group">
+                    <input type="text" name="PetalLengthCm" placeholder="Petal Length in Cm" required="required">
+                </div>
+                <div class="form-group">
+                    <input type="text" name="PetalWidthCm" placeholder="Petal Width Cm" required="required">
+                </div>
+
+                <button type="submit" class="btn">Predict</button>
+            </form>
+
+            <br>
+            <br>
+            {{ prediction_text }}
+        </div>
+    </div>
+
+</body>
+
+</html>

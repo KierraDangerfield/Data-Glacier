@@ -46,9 +46,17 @@ Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_3
 # Week 4 (July 22 - July 28)
 
 ### <b>Deployment on Flask</b>
-
+Deployed Iris Classification model using Flask.
 
 <br/>
 
-Link: 
+Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_4
 
+# Week 5 (July 29 - August 5)
+### <b>Cloud and API Deployment</b>
+
+Deployed Iris Classification model using Heroku.
+
+<br/>
+
+Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_5

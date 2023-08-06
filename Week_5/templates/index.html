@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Model Deployment</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="row" style="height:500px;">
+            <h1 class="purple">Predict Iris Species</h1>
+
+
+            <!-- Main Input For Receiving Query to our ML -->
+            <form action="{{ url_for('predict')}}" method="post">
+
+                <div class="form-group">
+                    <input type="text" name="SepalLengthCm" placeholder="Sepal Length in Cm" required="required">
+                </div>
+
+                <div class="form-group">
+                    <input type="text" name="SepalWidthCm" placeholder="Sepal Width in Cm" required="required">
+                </div>
+
+                <div class="form-group">
+                    <input type="text" name="PetalLengthCm" placeholder="Petal Length in Cm" required="required">
+                </div>
+
+                <div class="form-group">
+                    <input type="text" name="PetalWidthCm" placeholder="Petal Width Cm" required="required">
+                </div>
+
+                <button type="submit" class="btn">Predict</button>
+            </form>
+
+            <br>
+            <br>
+            {{ prediction_text }}
+        </div>
+    </div>
+
+</body>
+
+</html>

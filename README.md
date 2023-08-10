@@ -60,3 +60,14 @@ Deployed Iris Classification model using Heroku.
 <br/>
 
 Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_5
+
+# Week 6 (August 6 - August 12)
+### <b>Data Ingestion Pipeline</b>
+
+File ingestion and schema validation
+
+Dataset I used: https://www.kaggle.com/datasets/dhruvildave/en-fr-translation-dataset
+
+<br/>
+
+Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_6

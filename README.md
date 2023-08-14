@@ -71,3 +71,23 @@ Dataset I used: https://www.kaggle.com/datasets/dhruvildave/en-fr-translation-da
 <br/>
 
 Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_6
+
+# Week 7 (August 13 - August 19)
+### <b>Group Project: Retail Forecasting</b>
+
+Step 1: Understanding the Business Problem
+
+<br/>
+
+Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_7
+
+# Week 8 (August 20 - August 27)
+### <b>Group Project: Retail Forecasting</b>
+
+Step 2: Data Wrangling
+
+<br/>
+
+Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_8
+
+

@@ -84,10 +84,19 @@ Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_7
 # Week 8 (August 20 - August 27)
 ### <b>Group Project: Retail Forecasting</b>
 
-Step 2: Data Wrangling
+Step 2: Data Collection
 
 <br/>
 
 Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_8
+
+# Week 9 (August 28 - September 2)
+### <b>Group Project: Retail Forecasting</b>
+
+Step 3: Data Cleansing and Transformation
+
+<br/>
+
+Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_9
 
 

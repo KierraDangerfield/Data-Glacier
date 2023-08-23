@@ -99,4 +99,13 @@ Step 3: Data Cleansing and Transformation
 
 Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_9
 
+# Week 10 (August 3 - September 9)
+### <b>Group Project: Retail Forecasting</b>
+
+Step 4: Exploratory Data Analysis
+
+<br/>
+
+Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_10
+
 

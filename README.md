@@ -108,4 +108,13 @@ Step 4: Exploratory Data Analysis
 
 Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_10
 
+# Week 11 (August 10 - September 16)
+### <b>Group Project: Retail Forecasting</b>
+
+Step 5: Exploratory Data Analysis Prenestation with Model Recommendations
+
+<br/>
+
+Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_11
+
 

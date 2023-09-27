@@ -99,7 +99,7 @@ Step 3: Data Cleansing and Transformation
 
 Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_9
 
-# Week 10 (August 3 - September 9)
+# Week 10 (September 3 - September 9)
 ### <b>Group Project: Retail Forecasting</b>
 
 Step 4: Exploratory Data Analysis
@@ -108,7 +108,7 @@ Step 4: Exploratory Data Analysis
 
 Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_10
 
-# Week 11 (August 10 - September 16)
+# Week 11 (September 10 - September 16)
 ### <b>Group Project: Retail Forecasting</b>
 
 Step 5: Exploratory Data Analysis Prenestation with Model Recommendations
@@ -117,4 +117,22 @@ Step 5: Exploratory Data Analysis Prenestation with Model Recommendations
 
 Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_11
 
+# Week 12 (September 17 - September 23)
+### <b>Group Project: Retail Forecasting</b>
+
+Step 6: Model Selection with Model Recommendations
+
+<br/>
+
+Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_12
+
+
+# Week 13 (September 24 - September 30)
+### <b>Group Project: Retail Forecasting</b>
+
+Step 7: Report with presentation
+
+<br/>
+
+Link: https://github.com/KierraDangerfield/Data-Glacier/tree/main/Week_13
 
